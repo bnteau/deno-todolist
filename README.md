@@ -6,7 +6,7 @@ https://deno.land/#installation
 Utiliser Drash :
 https://drash.land/drash/v1.x/#/
 
-Drash permet de créer des API REST avec Deno, grpâce à des Resources. Le framework permet de manipuler différents types de fichiers différents, de parser les requêtes,
+Drash permet de créer des API REST avec Deno, grâce à des Resources. Le framework permet de manipuler différents types de fichiers différents, de parser les requêtes,
 de gérer les paramètres des paths créés et d'autres choses encore.
 
 Dans VS Code (si utilisé) :
