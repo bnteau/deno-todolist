@@ -1,16 +1,16 @@
 # Premier projet avec Deno
 
 Créer un nouveau projet avec Deno :
-https://deno.land/#installation
+[Lien vers la doc de Deno](https://deno.land/#installation)
 
 Utiliser Drash :
-https://drash.land/drash/v1.x/#/
+[Lien vers la doc de Drash](https://drash.land/drash/v1.x/#/)
 
 Drash permet de créer des API REST avec Deno, grâce à des Resources. Le framework permet de manipuler différents types de fichiers différents, de parser les requêtes,
 de gérer les paramètres des paths créés et d'autres choses encore.
 
-Dans VS Code (si utilisé) :
-On ajoute l'extension Deno créée pour l'éditeur ici https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno.
+## Dans VS Code
+Si on utilise VS Code, il faudra installer l'extension Deno créée pour l'éditeur [ici](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno).
 
 Un fichier de configuration sera donc créé avec des informations telles que :
 ```JSON
@@ -23,7 +23,7 @@ Un fichier de configuration sera donc créé avec des informations telles que :
     }
 }
 ```
-On peut utiliser une extension comme REST Client pour tester nos requêtes, tout comme on peut utiliser Postman ou Insomnia.
+On peut en parallèle utiliser une extension comme [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) pour tester nos requêtes, tout comme on peut utiliser [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/).
 
 ## L'application est prête !
 Une fois notre serveur prêt, on peut lancer notre application avec la commande suivante :
