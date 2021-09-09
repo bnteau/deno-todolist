@@ -26,11 +26,11 @@ Un fichier de configuration sera donc créé avec des informations telles que :
 On peut utiliser une extension comme REST Client pour tester nos requêtes, tout comme on peut utiliser Postman ou Insomnia.
 
 ## L'application est prête !
-Une fois notre serveur prêt, on peut lancernotre application avec la commande suivante :
+Une fois notre serveur prêt, on peut lancer notre application avec la commande suivante :
 ```
 deno run --allow-net app.ts
 ```
-Le flag --allow-net nous permet d'accéderà l'ensemble du web. On aurait pu préciser une adresse en paramètre au besoin. Si ce flag n'est pas précisé, 
+Le flag --allow-net nous permet d'accéder à l'ensemble du web. On aurait pu préciser une adresse en paramètre au besoin. Si ce flag n'est pas précisé, 
 alors l'accès sera bloqué.
 
 Vous n'avez plus qu'à vous amuser avec Deno et Drash !
